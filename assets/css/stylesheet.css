@@ -41,7 +41,7 @@ html {
 }
 
 body {
-  color: #4c4d4d;
+  color: #89814F;
 }
 
 /*-------- Preloader --------*/
@@ -669,7 +669,7 @@ hr {
 /*  3. Layouts
 /* =================================== */
 #main-wrapper {
-  background: #89814F;
+  background: #fff;
 }
 
 .box {
