@@ -1,7 +1,7 @@
 {
     "id": "io.supernova.documentation-main",
-    "name": "Documentation",
-    "description": "Default Supernova documentation exporter",
+    "name": "Documentation (test)",
+    "description": "Test Supernova documentation exporter",
     "author": "Jiri Trecak",
     "organization": "Supernova",
     "source_dir": "src",
